@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SkyoSMS</string>
+    <string name="app_desc">Trollez vos amis avec cette app !</string>
+    <string name="lbl_phone_number">Numéro de téléphone :</string>
+    <string name="lbl_repetitions">Répétitions :</string>
+    <string name="lbl_message">Message (160 caractères = 1 SMS) :</string>
+    <string name="btn_send">Envoyer !</string>
+    <string name="dlg_system_capability">Le système ne peut envoyer que 1 Message toutes les 3 Secondes.</string>
+    <string name="toast_done">Fait !</string>
+    <string name="toast_fill_frrom">Vous devez remplir tout le formulaire !</string>
+    <string name="btn_contact_picker">&#8230;</string>
+
+</resources>
